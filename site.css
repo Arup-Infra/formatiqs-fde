@@ -3,19 +3,7 @@
 @media(max-width:1000px){.bar{flex-wrap:wrap;padding-block:12px;gap:10px}.bar nav{order:3;width:100%}.hero-image{min-height:340px}.hero-grid{min-height:0}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:650px){.hero-grid,.reading,.grid{grid-template-columns:1fr}.hero-grid{gap:24px}.hero-image{min-height:240px}.bar nav{gap:5px 12px}.bar nav a{font-size:.78rem}aside{position:static;border-bottom:1px solid var(--line);padding-bottom:20px}.chapter{padding-block:22px}.card{min-height:145px}td,th{padding:7px;overflow-wrap:anywhere;font-size:.88rem}}
 
-.hero-stack {
-  display: block;
-  justify-self: center;
-  width: min(100%, 400px);
-}
 
-.hero-stack-title {
-  display: block;
-  margin-bottom: 8px;
-  font-size: 1.25rem;
-  text-decoration: underline;
-  text-underline-offset: 0.18em;
-}
 .hero-stack {
   text-decoration: none;
 }
