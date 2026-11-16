@@ -19,3 +19,11 @@
 .flow-linked a:hover {
   background: #30445a;
 }
+
+.delivery-audio {
+  margin-top: 24px;
+}
+.delivery-audio audio {
+  display: block;
+  width: min(100%, 420px);
+}
