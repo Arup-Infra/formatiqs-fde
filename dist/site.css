@@ -8,12 +8,6 @@
   justify-self: center;
   width: min(100%, 400px);
 }
-.hero-stack img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
-}
 
 .hero-stack-title {
   display: block;
