@@ -19,3 +19,15 @@
 .hero-stack {
   text-decoration: none;
 }
+
+.flow .flow-linked {
+  padding: 0;
+}
+.flow-linked a {
+  display: block;
+  padding: 9px 15px;
+  text-underline-offset: 0.18em;
+}
+.flow-linked a:hover {
+  background: #30445a;
+}
