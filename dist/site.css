@@ -14,3 +14,14 @@
   height: auto;
   border-radius: 6px;
 }
+
+.hero-stack-title {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 1.25rem;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+.hero-stack {
+  text-decoration: none;
+}
